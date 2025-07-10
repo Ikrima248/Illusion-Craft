@@ -132,6 +132,6 @@ The [UTK Face dataset](https://www.kaggle.com/datasets/jangedoo/utkface-new), wh
 We tried the model on some of our own images, hope you would like the effort 😄🎉
 
 <img src="./Images/Aarush.png" alt="Result 1" width="500"/>
-<img src="./Images/Hardik.png" alt="Result 1" width="500"/>
-<img src="./Images/Meher.png" alt="Result 1" width="500"/>
-<img src="./Images/Ikrima.png" alt="Result 1" width="500"/>
+<img src="./Image/Hardik.png" alt="Result 1" width="500"/>
+<img src="./Image/Meher.png" alt="Result 1" width="500"/>
+<img src="./Image/Ikrima.png" alt="Result 1" width="500"/>
